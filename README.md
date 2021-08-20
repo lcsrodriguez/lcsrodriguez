@@ -1,5 +1,6 @@
 # Lucas RODRIGUEZ
 
+2nd year French engineering student in applied mathematics and computer science.
 
 
 <!---
