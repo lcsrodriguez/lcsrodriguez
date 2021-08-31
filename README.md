@@ -4,7 +4,7 @@
 
 Currently studying at [Paris-Saclay University](https://www.universite-paris-saclay.fr/en) and [ENSIIE](https://www.ensiie.fr/).
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=lcsrodriguez&count_private=true&include_all_commits=true"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=lcsrodriguez&count_private=true&include_all_commits=true"/>
 
 
 <!---
