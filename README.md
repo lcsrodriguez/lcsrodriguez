@@ -4,6 +4,8 @@
 
 Currently studying at [Unibo](https://www.unibo.it/), [Paris-Saclay University](https://www.universite-paris-saclay.fr/en) and [ENSIIE](https://www.ensiie.fr/).
 
+- **[LinkedIn](https://linkedin.com/in/lcsrodriguez)** 
+- **[Portfolio](https://lcsrodriguez.github.io/)** (projects, contact, ...)
 
 <table>
   <tr><td valign="top" width="50%">
