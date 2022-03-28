@@ -1,7 +1,6 @@
 # Lucas RODRIGUEZ
 
-Penultimate-year French engineering student in **CS**, **Applied Mathematics**, **Quantitative & Computational Finance**.
-
+Penultimate-year French engineering student in **CS**, **Applied Mathematics**, **Quantitative & Computational Finance**. Python developer
 Currently studying at [Unibo](https://www.unibo.it/), [Paris-Saclay University](https://www.universite-paris-saclay.fr/en) and [ENSIIE](https://www.ensiie.fr/).
 
 - **[LinkedIn](https://linkedin.com/in/lcsrodriguez)** 
