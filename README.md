@@ -7,7 +7,9 @@ Currently studying at [Unibo](https://www.unibo.it/), [Paris-Saclay University](
 - **[LinkedIn](https://linkedin.com/in/lcsrodriguez)** 
 - **[Portfolio](https://lcsrodriguez.github.io/)** (projects, contact, ...)
 
-<table>
+---
+
+<table align="center">
   <tr><td valign="top" width="50%">
     <img src="https://github-readme-stats.vercel.app/api?username=lcsrodriguez&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" /> 
   </td>
