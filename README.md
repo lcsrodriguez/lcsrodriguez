@@ -2,10 +2,10 @@
 
 Penultimate-year French engineering student in **CS**, **Applied Mathematics**, **Quantitative & Computational Finance** & Python/C++ developer
 
-Currently studying at [Unibo](https://www.unibo.it/), [Paris-Saclay University](https://www.universite-paris-saclay.fr/en) and [ENSIIE](https://www.ensiie.fr/).
+Currently studying at [Unibo](https://www.unibo.it/), [Paris-Saclay University](https://www.universite-paris-saclay.fr/en) & [ENSIIE Paris](https://www.ensiie.fr/).
 
 - **[LinkedIn](https://linkedin.com/in/lcsrodriguez)** 
-- **[Portfolio](https://lcsrodriguez.github.io/)** (projects, contact, ...)
+- **[Portfolio](https://lcsrodriguez.github.io/)** (projects, experiences, skills ...)
 
 ---
 
