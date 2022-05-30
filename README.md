@@ -10,6 +10,11 @@ Currently studying at [Unibo](https://www.unibo.it/), [Paris-Saclay University](
 ---
 
 <table align="center">
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lcsrodriguez&theme=github_dark" />
+    </td>
+  </tr>
   <tr><td valign="top" width="50%">
     <img src="https://github-readme-stats.vercel.app/api?username=lcsrodriguez&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" /> 
   </td>
