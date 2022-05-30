@@ -24,7 +24,7 @@ Currently studying at [Unibo](https://www.unibo.it/), [Paris-Saclay University](
  </tr>
   <tr>
     <td colspan="2">
-      <b>Interests</b> Real-time data processing, HPC, Time-series/GIS/text data analysis, DBMS architecture
+      <b>Interests</b> : Real-time data processing, HPC, Time-series/GIS/text data analysis, DBMS architecture
     </td>
   </tr>
 </table>
