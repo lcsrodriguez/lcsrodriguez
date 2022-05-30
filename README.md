@@ -22,4 +22,9 @@ Currently studying at [Unibo](https://www.unibo.it/), [Paris-Saclay University](
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lcsrodriguez&hide=html,css,hack,tex,javascript&exclude_repo=ENSIIE_S2_PROJET_MATHS,intro-ml-assignment&hide_border=true&layout=compact&langs_count=6" align="left" style="width: 100%" /> <!-- &theme=radical -->
   </td>
  </tr>
-</table>  
+  <tr>
+    <td colspan="2">
+      <b>Interests</b> Real-time data processing, HPC, Time-series/GIS/text data analysis, DBMS architecture
+    </td>
+  </tr>
+</table>
