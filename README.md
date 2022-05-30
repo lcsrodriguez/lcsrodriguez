@@ -12,14 +12,14 @@ Currently studying at [Unibo](https://www.unibo.it/), [Paris-Saclay University](
 <table align="center">
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lcsrodriguez&theme=github_dark" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lcsrodriguez" /> <!-- &theme=github_dark -->
     </td>
   </tr>
   <tr><td valign="top" width="50%">
-    <img src="https://github-readme-stats.vercel.app/api?username=lcsrodriguez&show_icons=true&count_private=true&hide_border=true&theme=radical" align="left" style="width: 100%" /> 
+    <img src="https://github-readme-stats.vercel.app/api?username=lcsrodriguez&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" /> <!-- &theme=radical -->
   </td>
   <td valign="top" width="50%">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lcsrodriguez&hide=html,css,hack,tex,javascript&exclude_repo=ENSIIE_S2_PROJET_MATHS,intro-ml-assignment&hide_border=true&layout=compact&langs_count=6&theme=radical" align="left" style="width: 100%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lcsrodriguez&hide=html,css,hack,tex,javascript&exclude_repo=ENSIIE_S2_PROJET_MATHS,intro-ml-assignment&hide_border=true&layout=compact&langs_count=6" align="left" style="width: 100%" /> <!-- &theme=radical -->
   </td>
  </tr>
 </table>  
