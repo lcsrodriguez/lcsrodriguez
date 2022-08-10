@@ -6,6 +6,7 @@ Currently studying at [Unibo](https://www.unibo.it/), [Paris-Saclay University](
 
 - **[LinkedIn](https://linkedin.com/in/lcsrodriguez)** 
 - **[Portfolio](https://lcsrodriguez.github.io/)** (projects, experiences, skills ...)
+- **[Medium](https://medium.com/@lcsrodriguez)** 
 
 ---
 
