@@ -2,7 +2,7 @@
 
 Final-year French engineering student in **CS**, **Applied Mathematics**, **Quantitative & Computational Finance**
 
-Currently studying at [Unibo](https://www.unibo.it/), [Paris-Saclay University](https://www.universite-paris-saclay.fr/en) & [ENSIIE Paris](https://www.ensiie.fr/).
+Currently studying at [Paris-Saclay University](https://www.universite-paris-saclay.fr/en), [ENSIIE Paris](https://www.ensiie.fr/) & [Unibo](https://www.unibo.it/).
 
 
 - **[LinkedIn](https://linkedin.com/in/lcsrodriguez)** 
