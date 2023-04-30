@@ -8,7 +8,7 @@ Currently studying at [Paris-Saclay University](https://www.universite-paris-sac
 - **[LinkedIn](https://linkedin.com/in/lcsrodriguez)** 
 - **[Portfolio](https://lcsrodriguez.github.io/)** (projects, articles, skills ...)
   
-  
+**Interests** &bull; HFT, LOB data, Commodities trading (LNG, ...), Algorithmic trading, High-performance & Ultra low latency systems design
 
 <!-- - **[Medium](https://medium.com/@lcsrodriguez)**  -->
 
