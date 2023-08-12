@@ -1,8 +1,8 @@
 # Lucas RODRIGUEZ
 
-Final-year French engineering student in **CS**, **Applied Mathematics**, **Quantitative & Computational Finance**
+Business-oriented engineer in **CS**, **Applied Mathematics**, **Quantitative & Computational Finance**
 
-Currently studying at [Paris-Saclay University](https://www.universite-paris-saclay.fr/en), [ENSIIE Paris](https://www.ensiie.fr/) & [Unibo](https://www.unibo.it/).
+<!-- Currently studying at [Paris-Saclay University](https://www.universite-paris-saclay.fr/en), [ENSIIE Paris](https://www.ensiie.fr/) & [Unibo](https://www.unibo.it/). -->
 
 
 - **[LinkedIn](https://linkedin.com/in/lcsrodriguez)** 
